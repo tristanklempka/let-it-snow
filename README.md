@@ -1,5 +1,6 @@
 # let-it-snow
-Snow cover detection on high resolution satellite images.
+Snow cover detection on high resolution satellite image.
+
 Master-level internship at CNES - French Space Agency
 
 http://tully.ups-tlse.fr/grizonnet/let-it-snow.git
